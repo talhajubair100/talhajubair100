@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/talhajubair100/" target="_blank"> MD. Talha Jubair </a></h1>
 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate with Web Developers<br>🤝 I’m looking for help with Full Stack Technologies<br>🌱 I’m currently learning Node Js<br>💬 Ask me about Web Development<br>
+🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate with Web Developers<br>🤝 I’m looking for help with Full Stack Technologies<br>🌱 I’m currently learning Generative AI<br>💬 Ask me about Web Development<br>
 
 
 ## 🌐 Socials:
